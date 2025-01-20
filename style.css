@@ -15,7 +15,10 @@ body{
 }
 div.main{
     width:400px;
-    margin:20px auto 0px auto;
+    display:flex;
+    justify-self:center;
+    align-self:center;
+   
 }
 h2{
     padding:25px;
@@ -28,6 +31,7 @@ div.register{
 font-size:18px;
 border-radius:10px;
 color:#fff;
+
 height: 570px;
 width:350px;
 
